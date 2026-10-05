@@ -1,2 +1,2 @@
 # concorde
-we bite more than we can chew, and then we learn how to chew.
+so the overview is: collaborative whiteboard + notepad. that's it. simple right? haha that's right. IT'S NOT!
